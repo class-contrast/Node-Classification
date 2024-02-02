@@ -1,4 +1,4 @@
-# TDA-Node-Classification
+# TDA-Node-Classification (Edited)
 This repository contains the code for topologicla data analysis for node classificaton task .
 The following files contain different codes used for the experiment in this paper. Three small datasets (CORA, CITESEER, and PUBMED) and two OGBN-datasets (ARXIV and MAG) have been used in this experiment.
 
